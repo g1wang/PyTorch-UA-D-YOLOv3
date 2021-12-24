@@ -1,0 +1,6 @@
+classes= 1
+#train=data/trainless.txt
+#valid=data/trainless.txt
+train=data/train.txt
+valid=data/valid.txt
+names=data/car.names
